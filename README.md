@@ -1,9 +1,9 @@
-# Swapboard
+﻿# Swapboard
 
 > **A barter board for neighbouring businesses. The bakery trades bread for the print shop's flyers.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://mokhless2.github.io/swapboard/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://domdom007.github.io/swapboard/)
 [![Zero Server](https://img.shields.io/badge/Data%20Privacy-100%25%20Local-blue)](#privacy--architecture)
 
 **Swapboard** is an open-source, client-side web utility designed specifically for **Local business networks**. It solves a focused problem with zero friction: no login, no database, no recurring fees, and no data tracking.
@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ Live Demo
-**Try it online now:** [https://mokhless2.github.io/swapboard/](https://mokhless2.github.io/swapboard/)
+**Try it online now:** [https://domdom007.github.io/swapboard/](https://domdom007.github.io/swapboard/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mokhless2/swapboard.git
+git clone https://github.com/domdom007/swapboard.git
 cd swapboard
 
 # 2. Install dependencies
@@ -80,4 +80,4 @@ Contributions, bug reports, and suggestions are welcome!
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
 
-Developed by [Mokhles Ben Moallem](https://github.com/mokhless2) • [Meta Creative Tunisia](https://metatunisie.com)
+Developed by [Mokhles Ben Moallem](https://github.com/domdom007) • [Meta Creative Tunisia](https://metatunisie.com)
